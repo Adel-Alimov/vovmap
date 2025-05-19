@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /private/  # если есть закрытые разделы
+Sitemap: https://ваш-сайт.ру/sitemap.xml
